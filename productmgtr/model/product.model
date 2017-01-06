@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model xmlns="http://www.yonyou.com/uap/DataModel" className="com.yonyou.iuap.example.entity.Product" id="Product" name="Product">
+  <attributes>
+    <attribute id="serialVersionUID" name="serialVersionUID" type="long"/>
+    <attribute id="productid" name="productid" type="String"/>
+    <attribute id="productname" name="productname" type="String"/>
+    <attribute id="supplier" name="supplier" type="String"/>
+    <attribute id="prodate" name="prodate" type="Date"/>
+    <attribute id="orgin" name="orgin" type="String"/>
+    <attribute id="ts" name="ts" type="Date"/>
+  </attributes>
+</model>
